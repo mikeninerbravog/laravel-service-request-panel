@@ -48,7 +48,7 @@ Laravel diverges from this by design. It introduces:
 |------------------------------|-------------|--------|-------|
 | `ShellOps` (modular Bash)    | 1–2         | 5–10   | Each script does exactly one thing, testable via stdin/stdout |
 | `FastAPI + SQLite` (KISS)    | 5–8         | 10–30  | Cleanly modular, RESTful, explicit logic |
-| `Laravel 10` (this project)  | **1269**    | **8207** | Full monolithic stack, required even for the simplest CRUD |
+| `Laravel 12` (this project)  | **1269**    | **8207** | Full monolithic stack, required even for the simplest CRUD |
 
 > A Laravel skeleton demands **~8000 files** to implement what is fundamentally a single-table CRUD.
 
