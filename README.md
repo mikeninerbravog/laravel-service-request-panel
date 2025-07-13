@@ -30,8 +30,8 @@ This repository was built as a **controlled Laravel training exercise**, to:
 
 At [Mike Niner Bravog](https://github.com/mikeninerbravog), we follow:
 
-- **KISS** (Keep It Simple, Shell-style)
-- **Nixismo**: modular, testable pipelines
+- **KISS** (Keep It Simple, Stupid-Simple)
+- **Nixism**: modular, testable pipelines
 - **Debianist Discipline**: minimal external dependencies, deterministic builds
 - **ShellOps**: agent-based execution, no magic, full I/O control
 
