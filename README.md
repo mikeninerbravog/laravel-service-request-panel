@@ -118,16 +118,6 @@ database/
 
 ---
 
-## Screenshots or GIFs (Optional)
-
-> For Upwork portfolios, consider adding terminal recordings, UI screenshots, or annotated source structure diagrams here.
-
----
-
 ## License
 
 MIT — free to use, adapt and commercialize.
-
----
-
-> Built as a Laravel compliance proof by [Mike Niner](https://github.com/mikeninerbravog), under strict awareness of its architectural contradictions.
